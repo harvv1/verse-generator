@@ -4,8 +4,7 @@ console.clear();
 
 const generate = () => {
 	const values = Object.values(verses);
-	const randomValue = values[Math.floor(Math.random() * values.length)];
-	return randomValue;
+	return values[Math.floor(Math.random() * values.length)];
 };
 
 console.log(generate());
