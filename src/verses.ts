@@ -3,7 +3,7 @@ export const verses: Record<string, string> = {
 	1: '\n ☩ 1 Corinthians 10:13 ☩\n\n Let no temptation take hold on you, but such as is human.\n And God is faithful, who will not suffer you to be tempted above that which you are able:\n but will make also with temptation issue, that you may be able to bear it.\n',
 	2: '\n ☩ Matthew 26:41 ☩\n\n Watch ye, and pray that ye enter not into temptation.\n The spirit indeed is willing, but the flesh weak.\n',
 	3: '\n ☩ Isaiah 53:5 ☩\n\n But he was wounded for our iniquities: he was bruised for our sins.\n The chastisement of our peace was upon him, and by his bruises we are healed.\n',
-	4: '\n ☩ John 13:7 ☩\n\nJesus answered, and said to him: What I do thou knowest not now;\n but thou shalt know hereafter.\n',
+	4: '\n ☩ John 13:7 ☩\n\n Jesus answered, and said to him: What I do thou knowest not now;\n but thou shalt know hereafter.\n',
 	5: '\n ☩ Galatians 5:22-23 ☩\n\n But the fruit of the Spirit is, charity, joy, peace, patience, benignity,\n goodness, longanimity, mildness, faith, modesty, continency, chastity.\n Against such there is no law.\n',
 	6: '\n ☩ Psalms 34:4 ☩\n\n Let them be confounded and ashamed that seek after my soul.\n Let them be turned back and be confounded that devise against me.\n',
 	7: '\n ☩ 1 Corinthians 13:4-8 ☩\n\n Charity is patient, is kind: Charity envieth not,\n dealeth not perversely; Is not puffed up; Is not ambitious,\n seeketh not her own, is not provoked to anger, thinketh no evil;\n Rejoiceth not in iniquity, but rejoiceth with the truth;\n Beareth all things, believeth all things, hopeth all things, endureth all things.\n Charity never falleth away: whether prophecies shall be made void,\n or tongues shall cease, or knowledge shall be destroyed.\n',
