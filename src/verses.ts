@@ -15,7 +15,7 @@ export const verses: Record<string, string> = {
 	13: '\n ☩ Isaiah 40:30-31 ☩\n\n Youths shall faint and labour: and young men shall fall by infirmity.\n But they that hope in the Lord shall renew their strength: they shall take wings as eagles;\n they shall run and not be weary; they shall walk and not faint.\n',
 	14: '\n ☩ Phillipians 4:13 ☩\n\n I can do all these things in him who strengtheneth me.\n',
 	15: '\n ☩ Proverbs 24:16 ☩\n\n For a just man shall fall seven times and shall rise again:\n but the wicked shall fall down into evil.\n',
-	16: '\n ☩ 1 Timothy 2:5-6 ☩\n For there is one God, and one mediator of God and men, the man Christ Jesus:\n Who gave himself a redemption for all, a testimony in due times.\n',
-	17: '\n ☩ 1 Peter 5:10 ☩\n But the God of all grace, who hath called us into his eternal glory in Christ Jesus,\n after you have suffered a little, will himself perfect you,\n and confirm you, and establish you.\n',
-	18: '\n ☩ Luke 6:37 ☩\n Judge not, and you shall not be judged. Condemn not, and you shall not be condemned.\n Forgive, and you shall be forgiven.\n',
+	16: '\n ☩ 1 Timothy 2:5-6 ☩\n\n For there is one God, and one mediator of God and men, the man Christ Jesus:\n Who gave himself a redemption for all, a testimony in due times.\n',
+	17: '\n ☩ 1 Peter 5:10 ☩\n\n But the God of all grace, who hath called us into his eternal glory in Christ Jesus,\n after you have suffered a little, will himself perfect you,\n and confirm you, and establish you.\n',
+	18: '\n ☩ Luke 6:37 ☩\n\n Judge not, and you shall not be judged. Condemn not, and you shall not be condemned.\n Forgive, and you shall be forgiven.\n',
 };
